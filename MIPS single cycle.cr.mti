@@ -1,0 +1,106 @@
+{C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/mips_toplevel.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/mips_toplevel.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/data memory.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/data memory.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/instruction memory.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/instruction memory.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/mux2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/mux2.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/controller.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/controller.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/sign_extension.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/sign_extension.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/resettable_ff.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/resettable_ff.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/modulemips.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/modulemips.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/alu dec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/alu dec.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/regfile.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/regfile.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/datapath.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/datapath.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/mips_testbench.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/mips_testbench.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/adder.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/adder.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/maindec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/maindec.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module maindec
+
+Top level modules:
+	maindec
+
+} {} {}} {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/sl2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/effat/Desktop/Term 6/Arch/MIPS/code/sl2.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sl2
+
+Top level modules:
+	sl2
+
+} {} {}}
